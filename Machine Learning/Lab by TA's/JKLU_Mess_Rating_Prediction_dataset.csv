@@ -1,0 +1,101 @@
+Food Item,Food:Water Ratio,Oil Quality,Mess Bhaiya Mood,Number of Hair Found,Meal Type,Mess Hygiene,Spice Level,Temperature Outside ,Mess Table Number,Predicted Rating
+Poha,Balanced,Straight-Up Poison,Hates_His_Life,0,Snack,9,1.5,20,18,5
+Chicken Curry,Balanced,Low,Annoyed,0,Dinner,6,2.8,20,30,7
+Lauki Kofta,Watery,Medium,Ready_To_Fight,2,Snack,4,,24,36,7
+"Kale Chane, Aloo Chips",Dry,Low,Annoyed,2,Sweet,4,,35,11,7
+Aloo Tikki Chole (Extra Spicy),Watery,Straight-Up Poison,Happy,2,Dinner,7,,30,12,7
+Dahi Tadka,Balanced,Straight-Up Poison,Happy,3,Sweet,9,2.3,39,5,4
+Uttapam,Watery,Excessive,Ready_To_Fight,2,Breakfast,7,,38,9,5
+Moong Masala,Dry,Medium,Ready_To_Fight,3,Lunch,6,4.6,39,13,7
+Chicken Curry (Extra Spicy),Dry,Straight-Up Poison,Annoyed,1,Dinner,5,5.7,21,27,8
+Soyabean Masala,Watery,Straight-Up Poison,Annoyed,0,Lunch,7,1.4,23,5,7
+Aloo Gobhi (Extra Spicy),Dry,Low,Happy,1,Breakfast,8,,33,18,7
+Burnt Chapati,Watery,Straight-Up Poison,Hates_His_Life,2,Dinner,5,6.7,31,38,4
+Stone-Hard Roti (Too Salty),Balanced,Excessive,Annoyed,1,Sweet,4,3,26,23,8
+Cabbage Matar,Balanced,Low,Annoyed,2,Snack,6,5.7,21,48,5
+Jalebi (Overcooked),Dry,Excessive,Annoyed,3,Breakfast,6,8.9,37,49,9
+Dabeli (Burnt),Watery,Straight-Up Poison,Hates_His_Life,1,Breakfast,6,2.4,27,10,3
+Methi Malai Matar,Balanced,Excessive,Happy,1,Dinner,6,6.7,22,47,8
+Uttapam (Overcooked),Watery,Straight-Up Poison,Annoyed,2,Sweet,5,5.4,24,38,3
+"Rajma, Mix Veg, Rice",Watery,Excessive,Ready_To_Fight,3,Breakfast,3,6.4,24,49,5
+Stone-Hard Roti,Watery,Low,Ready_To_Fight,2,Sweet,3,1.6,32,47,6
+Dum Aloo,Balanced,Low,Hates_His_Life,3,Dinner,3,,31,18,6
+Jeera Rice (Cold),Watery,Straight-Up Poison,Hates_His_Life,0,Snack,4,7.4,22,16,5
+Kadhi Pakora (Cold),Watery,Medium,Hates_His_Life,1,Dinner,8,1.1,33,6,4
+Bhelpuri,Watery,Straight-Up Poison,Ready_To_Fight,3,Breakfast,5,6.8,35,37,6
+"Milk, Tea, Coffee (Undercooked)",Watery,Low,Hates_His_Life,0,Sweet,9,,37,11,4
+"Masala Dosa, Sambhar",Dry,Straight-Up Poison,Ready_To_Fight,2,Sweet,9,3.4,36,46,7
+Lehsun Chutney (Too Salty),Dry,Medium,Happy,3,Snack,5,7.6,35,24,6
+Mystery Curry (Unidentifiable),Dry,Low,Hates_His_Life,1,Dinner,7,3.4,30,23,4
+Jalebi,Dry,Excessive,Annoyed,0,Sweet,9,7.7,29,39,6
+Dal Makhani,Balanced,Low,Happy,3,Snack,5,2.2,35,30,3
+Chilli Potato (Burnt),Dry,Low,Happy,1,Snack,9,,40,45,4
+Aloo Chips (Extra Spicy),Watery,Excessive,Annoyed,3,Lunch,9,4.3,39,33,9
+Dal Tadka (Undercooked),Balanced,Excessive,Annoyed,3,Sweet,4,,39,4,8
+Dabeli,Balanced,Medium,Hates_His_Life,1,Dinner,3,,34,9,4
+Dal (Generic),Dry,Straight-Up Poison,Annoyed,1,Snack,8,9.2,31,32,9
+Dum Aloo (Too Salty),Watery,Straight-Up Poison,Happy,3,Dinner,3,,33,22,9
+Veg Biryani (Too Salty),Dry,Medium,Happy,1,Dinner,4,0.4,31,15,7
+Aloo Gobhi,Watery,Excessive,Ready_To_Fight,3,Dinner,5,6.4,21,18,6
+"Chapati, Achar/Chutney",Dry,Low,Happy,1,Dinner,8,1.3,32,4,6
+Leftover Special (Cold),Dry,Medium,Hates_His_Life,3,Sweet,7,5.3,30,36,3
+Moong Dal Halwa,Watery,Low,Annoyed,2,Lunch,3,,30,32,6
+Baingan Bharta (Undercooked),Balanced,Medium,Ready_To_Fight,3,Lunch,7,,29,35,6
+Poha (Burnt),Balanced,Medium,Ready_To_Fight,3,Snack,5,4.5,27,50,7
+Pasta,Dry,Excessive,Happy,1,Sweet,8,7.3,28,4,3
+Burnt Chapati (Undercooked),Watery,Low,Ready_To_Fight,2,Sweet,6,,22,32,8
+Kadhi Pakora,Balanced,Medium,Hates_His_Life,3,Snack,5,5.6,28,13,3
+Baingan Bharta (Burnt),Balanced,Medium,Ready_To_Fight,2,Sweet,7,8.3,40,42,7
+Mohanthal (Too Salty),Dry,Low,Hates_His_Life,1,Snack,4,,25,26,4
+"Milk, Tea, Coffee",Balanced,Straight-Up Poison,Happy,1,Breakfast,7,5.3,30,6,8
+Rice Kheer,Watery,Low,Annoyed,1,Breakfast,6,2.2,22,14,6
+Veg Biryani,Dry,Excessive,Happy,0,Sweet,5,4.4,25,10,9
+"Pindi Chole, Puri (Extra Spicy)",Balanced,Medium,Ready_To_Fight,3,Breakfast,6,7.8,24,48,5
+Maggie,Dry,Medium,Happy,0,Breakfast,8,,34,24,6
+Kadhi Pakora (Overcooked),Watery,Low,Annoyed,1,Sweet,3,1.2,23,9,6
+"Pindi Chole, Puri",Dry,Straight-Up Poison,Ready_To_Fight,3,Breakfast,9,3.5,36,48,3
+Jeera Rice (Too Salty),Dry,Excessive,Annoyed,3,Sweet,5,6.6,22,14,9
+Jalebi (Cold),Dry,Medium,Annoyed,1,Lunch,8,9.4,25,13,6
+Samosa,Balanced,Straight-Up Poison,Ready_To_Fight,2,Dinner,6,,34,32,5
+Idli Sambhar,Dry,Straight-Up Poison,Annoyed,1,Lunch,7,3.3,27,27,6
+Pav Bhaji,Balanced,Straight-Up Poison,Hates_His_Life,2,Lunch,3,4.5,38,28,6
+Mohanthal,Watery,Straight-Up Poison,Annoyed,2,Breakfast,5,6,32,1,6
+Lauki Kofta (Extra Spicy),Dry,Low,Annoyed,0,Breakfast,5,3.2,32,7,9
+Veg Pulav,Balanced,Excessive,Ready_To_Fight,0,Breakfast,6,3.4,39,48,6
+Methi Thepla (Overcooked),Watery,Straight-Up Poison,Ready_To_Fight,3,Dinner,6,10,30,27,5
+Paneer Butter Masala,Watery,Straight-Up Poison,Annoyed,3,Sweet,9,1,25,37,4
+Aloo Chips (Too Salty),Dry,Medium,Ready_To_Fight,2,Sweet,8,3,38,36,8
+Egg Curry,Dry,Low,Ready_To_Fight,3,Lunch,7,1,25,31,9
+Baingan Bharta,Balanced,Excessive,Hates_His_Life,3,Breakfast,5,4.3,31,31,6
+Methi Thepla (Burnt),Watery,Straight-Up Poison,Happy,3,Breakfast,4,8.5,37,39,8
+"Bread, Butter, Jam",Dry,Low,Happy,2,Snack,4,,27,31,7
+Leftover Special,Dry,Excessive,Hates_His_Life,2,Lunch,4,,35,32,9
+Paneer Parantha,Dry,Excessive,Annoyed,1,Snack,6,3.4,25,40,8
+Paneer Parantha (Extra Spicy),Watery,Straight-Up Poison,Happy,1,Breakfast,7,5.5,30,41,7
+Rice Kheer (Undercooked),Balanced,Medium,Annoyed,3,Dinner,5,2.2,21,16,8
+"Chana Masala, Aloo Semfali",Watery,Medium,Happy,3,Breakfast,3,7.5,36,9,9
+Jalebi (Extra Spicy),Watery,Straight-Up Poison,Hates_His_Life,0,Breakfast,3,5.4,36,36,6
+"Chana Masala, Aloo Semfali (Too Salty)",Dry,Excessive,Ready_To_Fight,3,Dinner,4,4.4,31,25,7
+Tomato Soup (Burnt),Dry,Medium,Happy,2,Dinner,6,4.2,21,14,3
+"Kale Chane, Aloo Chips (Undercooked)",Watery,Low,Hates_His_Life,0,Lunch,8,5.5,32,34,5
+Lehsun Chutney,Balanced,Low,Annoyed,2,Breakfast,7,3.1,40,49,9
+"Milk, Tea, Coffee (Burnt)",Balanced,Medium,Hates_His_Life,0,Breakfast,3,5.3,31,47,8
+Dum Aloo (Cold),Dry,Excessive,Ready_To_Fight,2,Breakfast,4,,34,49,5
+Pakora (Cold),Balanced,Low,Hates_His_Life,3,Sweet,5,4.3,39,1,3
+Dal (Generic) (Overcooked),Balanced,Excessive,Hates_His_Life,2,Dinner,4,3,36,27,3
+Jeera Rice,Dry,Straight-Up Poison,Hates_His_Life,1,Sweet,9,5.4,29,12,9
+Aloo Chips,Watery,Low,Ready_To_Fight,1,Snack,4,6.4,30,46,3
+Frankie,Balanced,Excessive,Happy,0,Lunch,3,3,33,9,9
+Aloo Tikki Chole,Dry,Straight-Up Poison,Ready_To_Fight,2,Breakfast,4,2.4,21,12,9
+Chilli Potato,Dry,Low,Annoyed,1,Snack,8,5.4,21,26,8
+Pakora,Balanced,Medium,Ready_To_Fight,3,Sweet,4,8.8,37,10,6
+Dal (Generic) (Too Salty),Watery,Medium,Ready_To_Fight,0,Sweet,7,8.3,22,18,4
+Dal Tadka,Balanced,Medium,Happy,1,Snack,8,2.2,28,35,9
+"Pindi Chole, Puri (Cold)",Dry,Medium,Ready_To_Fight,0,Sweet,7,4.3,23,35,9
+Idli Sambhar (Undercooked),Watery,Medium,Hates_His_Life,0,Snack,8,5.5,23,48,3
+Methi Thepla,Balanced,Medium,Annoyed,0,Dinner,6,3.2,37,47,3
+Kadhai Paneer,Watery,Low,Happy,1,Dinner,4,,33,11,8
+Aloo Pyaaz Paratha,Watery,Low,Hates_His_Life,0,Snack,4,1.4,31,26,9
+Tomato Soup,Balanced,Straight-Up Poison,Annoyed,0,Dinner,8,5.4,25,42,4
+Schezwan Rice,Balanced,Medium,Ready_To_Fight,2,Dinner,7,3.3,25,19,4
+Paneer Parantha (Cold),Balanced,Straight-Up Poison,Happy,3,Breakfast,9,4.3,29,10,8

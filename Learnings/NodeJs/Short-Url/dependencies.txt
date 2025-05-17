@@ -1,0 +1,17 @@
+
+
+npm init 
+
+npm i express
+
+npm i nodemon
+
+npm install nanoid@3.x
+ 
+npm i ejs
+
+npm i uuid
+
+npm i cookie-parser
+
+npm i jsonwebtoken 
