@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807922696335",
+    "project_id": "internship-projects-1b23f",
+    "storage_bucket": "internship-projects-1b23f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807922696335:android:f4e59b5a345a09076ab0fa",
+        "android_client_info": {
+          "package_name": "com.thesoftwaremachine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjvgcaQtv08WF51YYb8cAz39wj_vUmc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
